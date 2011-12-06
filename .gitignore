@@ -8,3 +8,23 @@
 .project
 
 .classpath
+
+target/classes/com/pillingerphotography/katas/Base64Encoder.class
+
+target/classes/com/pillingerphotography/katas/BinarySearch.class
+
+target/classes/com/pillingerphotography/katas/BubbleSort.class
+
+target/classes/com/pillingerphotography/katas/Fibonacci.class
+
+target/classes/com/pillingerphotography/katas/QuickSort.class
+
+target/katas-1.0-SNAPSHOT.jar
+
+target/maven-archiver/pom.properties
+
+target/surefire-reports/TEST-com.pillingerphotography.katas.Base64EncoderTest.xml
+
+target/surefire-reports/com.pillingerphotography.katas.Base64EncoderTest.txt
+
+target/test-classes/com/pillingerphotography/katas/Base64EncoderTest.class
